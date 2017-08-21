@@ -1,7 +1,7 @@
 {
-  "name": "ReactBoiler3",
+  "name": "ReactTODO",
   "version": "1.0.0",
-  "description": "Sample react app",
+  "description": "React TODO App",
   "main": "index.js",
   "scripts": {
     "test": "karma start",
